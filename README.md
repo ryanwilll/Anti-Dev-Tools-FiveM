@@ -4,7 +4,7 @@
 
 Para que esse script funcione corretamente, é necessário seguir alguns passo.
 
-1° - Baixe todos esses arquivos e extraia os arquivos na pasta resources do seu servidor.\
+1° - Baixe o script e extraia os arquivos na pasta resources do seu servidor.\
 2° - Após ter baixado e adicionado ao resources, vamos até o server.cfg, ou onde você dá /start ou /ensure em seus script, e vamos adicionar ensure "nomedoarquivo" (ensure Ant-Dev-Tools-FiveM)\
 3° - Agora com o arquivo já preparado para startar juntamente com o servidor, vamos configurá-lo. Para isso, abra o script permissions.lua e nas linhas 6 e 7 altere onde está escrito steamhexaqui pela sua steam hex.\
 4° - Após realizar o procedimento 3, salve o arquivo e pode fechá-lo.\
@@ -12,3 +12,6 @@ Para que esse script funcione corretamente, é necessário seguir alguns passo.
 
 
 # Por fim é isso, basta fechar o servidor e iniciá-lo novamente.
+
+
+<p align="center"> ⭐ Caso tenha gostado, não esqueça de fortalecer! </p>
